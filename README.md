@@ -44,7 +44,7 @@ Numbered Navigation Bar: Create a navigation bar at the bottom of the page to ea
 
 
 ### Derek's Journey Map
-
+[![Screen-Shot-2022-05-04-at-11-54-44-AM.png](https://i.postimg.cc/PfQj1fHN/Screen-Shot-2022-05-04-at-11-54-44-AM.png)](https://postimg.cc/Th1F66pX)
 
 ## Manny Moa's Scenario & Journey Map
 
@@ -57,7 +57,6 @@ Numbered Navigation Bar: Create a navigation bar at the bottom of the page to ea
 > After work, Manny opens the website his friend referred to him. The interactive soundboard on the opening page draws Manny in. He spends a few moments playing with different beats and seeing how they sound together. Manny follows the path of the website, but realizes that he knows a lot of the information there already. He, then, goes to the hamburger icon to look through categories. He sees a category that says “The Playground” and decides to click on it. He was greeted by a few interactive soundboards. He plays around with the sounds and listen to how each of the notes differ. Manny is an auditory learner, so he is able to pick up and understand the music and sounds quickly. 
 
 Manny's Journey Map
-
-
+[![Screen-Shot-2022-05-04-at-11-57-46-AM.png](https://i.postimg.cc/3xP6PzhP/Screen-Shot-2022-05-04-at-11-57-46-AM.png)](https://postimg.cc/68fYZjy0)
 
 
