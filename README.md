@@ -47,12 +47,11 @@ Numbered Navigation Bar: Create a navigation bar at the bottom of the page to ea
 
 ### Why Manny is using this product
 
-> Manny recently started making music again. He has a new found appreciation for electronic music and wants to try to incorporate electronic music with Reggae and Hip-Hop. Manny has been overwhelmed with work lately. He feels like he is too busy trying to pay bills and survive that he doesn’t have much time and money to make music. Manny knows the basics of electronic music because he grew up watching his family produce and make music. Manny has an idea what he wants to do, but feels limited because he doesn’t have much money to buy a sound board to practice with. 
-
+> Manny recently started making music again. He has a new found appreciation for electronic music and wants to try to incorporate electronic music with Reggae and Hip-Hop. Manny has been overwhelmed with work lately. He feels like he is too busy trying to pay bills and survive that he doesn’t have much time and money to make music. Manny knows the basics of electronic music because he grew up watching his family produce and make music. Manny has an idea what he wants to do, but feels limited because he doesn’t have much money to buy a sound board to practice with. Manny was referred to this site by his friend that was also interested in electronic music. He told Manny that there were inclusions of interactive soundboards and visuals for sheet music learning. He doesn't know how to read sheet music, so this site is also useful for Manny to visualize and hear which sounds go with the notes.
 
 ### How Manny is using this product
 
-> why
+> After work, Manny opens the website his friend referred to him. The interactive soundboard on the opening page draws Manny in. He spends a few moments playing with different beats and seeing how they sound together. Manny follows the path of the website, but realizes that he knows a lot of the information there already. He, then, goes to the hamburger icon to look through categories. He sees a category that says “The Playground” and decides to click on it. He was greeted by a few interactive soundboards. He plays around with the sounds and listen to how each of the notes differ. Manny is an auditory learner, so he is able to pick up and understand the music and sounds quickly. 
 
 
 
