@@ -43,6 +43,9 @@ Numbered Navigation Bar: Create a navigation bar at the bottom of the page to ea
 > While at work, Derek decides to look up electronic music learning on his computer. A website pops up with an interactive page and a simple design. As a web developer, Derek admires the simplicity of the website with clear and concise information. He decides to follow the path of the website and it takes him step by step through learning how to put beats together. As he comes across the “Tempos and Beats” section, he took interest in the tempo ranges. He saw that techno/trance fell into the tempo ranges of 120-140 bpm. He mentally took notes of that, so he could set his tempo ranges on his sound board to the right tempo. 
 
 
+### Derek's Journey Map
+
+
 ## Manny Moa's Scenario & Journey Map
 
 ### Why Manny is using this product
@@ -53,6 +56,7 @@ Numbered Navigation Bar: Create a navigation bar at the bottom of the page to ea
 
 > After work, Manny opens the website his friend referred to him. The interactive soundboard on the opening page draws Manny in. He spends a few moments playing with different beats and seeing how they sound together. Manny follows the path of the website, but realizes that he knows a lot of the information there already. He, then, goes to the hamburger icon to look through categories. He sees a category that says “The Playground” and decides to click on it. He was greeted by a few interactive soundboards. He plays around with the sounds and listen to how each of the notes differ. Manny is an auditory learner, so he is able to pick up and understand the music and sounds quickly. 
 
+Manny's Journey Map
 
 
 
