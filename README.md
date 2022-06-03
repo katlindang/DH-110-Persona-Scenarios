@@ -23,8 +23,8 @@ Numbered Navigation Bar: Create a navigation bar at the bottom of the page to ea
 [![Screen-Shot-2022-05-03-at-5-43-42-PM.png](https://i.postimg.cc/k4vWPNdP/Screen-Shot-2022-05-03-at-5-43-42-PM.png)](https://postimg.cc/2b314Z60)
 
 ## Persona 2: Manny Moa
-
 [![Screen-Shot-2022-05-03-at-5-43-51-PM.png](https://i.postimg.cc/HshXmsFn/Screen-Shot-2022-05-03-at-5-43-51-PM.png)](https://postimg.cc/KRtRrFGh)
+
 
 ### Manny's Empathy Map
 [![Screen-Shot-2022-05-03-at-5-44-29-PM.png](https://i.postimg.cc/xdrmkpfS/Screen-Shot-2022-05-03-at-5-44-29-PM.png)](https://postimg.cc/rDJs3JRh)
